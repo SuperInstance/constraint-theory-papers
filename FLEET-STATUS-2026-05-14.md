@@ -58,7 +58,7 @@ None detected.
 
 ## 2. PLATO Room Health
 
-**Server:** `http://147.224.38.131:8847` — ✅ UP and responsive
+**Server:** `http://<BOAT_IP>:8847` — ✅ UP and responsive
 
 | Metric | Value |
 |---|---|
@@ -111,7 +111,7 @@ None detected.
 | **Steward** | 8901 | ❌ TIMEOUT |
 
 ### Connectivity Note
-Host `147.224.38.131` is NOT pingable from this WSL2 instance (expected — ICMP blocked on WSL2 egress). All service ports timed out from this host. This may be a firewall restriction on the target host, not necessarily service failure. Only PLATO (port 8847) responded, which has its own port rule.
+Host `<BOAT_IP>` is NOT pingable from this WSL2 instance (expected — ICMP blocked on WSL2 egress). All service ports timed out from this host. This may be a firewall restriction on the target host, not necessarily service failure. Only PLATO (port 8847) responded, which has its own port rule.
 
 **Action Required:** Verify service status directly on the host or check if services are behind a firewall blocking inbound connections.
 

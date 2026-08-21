@@ -26,7 +26,7 @@
 - Privacy filter: keys never leave FM's machine
 
 ### Fleet Infrastructure
-- PLATO server: 125 rooms, 20K+ tiles at 147.224.38.131:8847
+- PLATO server: 125 rooms, 20K+ tiles at <BOAT_IP>:8847
 - zeroclaw: Docker PLATO shell with onboarding, passage client, sweep runner
 - flux-index: Semantic code search, pip-installable
 - fm-fleet-check: One-command health check

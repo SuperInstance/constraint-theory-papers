@@ -204,7 +204,7 @@ Lighthouse runtime in production: multi-agent coordination via PLATO.
 ### Resource Requirements
 - **Models:** z.ai monthly quota, DeepInfra per-token, Claude daily limit
 - **Compute:** Current fleet hardware sufficient
-- **PLATO:** Oracle1 server (147.224.38.131:8847)
+- **PLATO:** Oracle1 server (<BOAT_IP>:8847)
 
 ### Kill Criteria
 - If PLATO server goes down → fall back to git-based I2I bottles (already working)

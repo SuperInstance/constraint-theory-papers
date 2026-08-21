@@ -72,7 +72,7 @@ Each agent in each room files prediction tiles:
 ```python
 from plato_sdk import PlatoClient, TileBuilder
 
-client = PlatoClient("http://147.224.38.131:8847")
+client = PlatoClient("http://<BOAT_IP>:8847")
 
 # Ground Truth predicts hardware behavior
 gt_tile = (TileBuilder()

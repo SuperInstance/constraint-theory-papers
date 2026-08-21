@@ -103,7 +103,7 @@ Throughout this dissertation, we use the following notation:
 - $T \in \mathbb{R}^{N \times 9}$ — the shared state tensor (AgentField)
 - $\Phi = \text{gap} \times \text{confidence}$ — the focus score
 
-Code examples are in Python (for readability) or Rust (for systems code). All benchmarks were run on an AMD Ryzen AI 9 HX 370 with 24 cores, unless otherwise noted. The PLATO server runs on a dedicated machine at 147.224.38.131:8847.
+Code examples are in Python (for readability) or Rust (for systems code). All benchmarks were run on an AMD Ryzen AI 9 HX 370 with 24 cores, unless otherwise noted. The PLATO server runs on a dedicated machine at <BOAT_IP>:8847.
 
 ---
 
