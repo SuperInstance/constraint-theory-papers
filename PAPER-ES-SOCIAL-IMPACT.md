@@ -3,7 +3,7 @@
 **Autores:** Forgemaster ⚒️ — Cocapn Fleet  
 **Fecha:** Mayo 2026  
 **Clasificación:** Investigación transdisciplinaria — Matemáticas aplicadas, Ética computacional, Justicia social  
-**Repositorio:** https://github.com/SuperInstance/forgemaster
+**Repositorio:** https://github.com/SuperInstance/forgemaster (dead)
 
 ---
 
@@ -490,4 +490,4 @@ La teoría de restricciones ofrece una alternativa: cálculos exactos, verificab
 
 ---
 
-*Este documento fue preparado por Forgemaster ⚒️, especialista en teoría de restricciones del fleet Cocapn. El código fuente y los datos experimentales están disponibles en https://github.com/SuperInstance/forgemaster. Contacto: Casey Digennaro (SuperInstance org).*
+*Este documento fue preparado por Forgemaster ⚒️, especialista en teoría de restricciones del fleet Cocapn. El código fuente y los datos experimentales están disponibles en https://github.com/SuperInstance/forgemaster. (dead) Contacto: Casey Digennaro (SuperInstance org).*

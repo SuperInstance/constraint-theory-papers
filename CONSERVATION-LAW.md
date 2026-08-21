@@ -393,4 +393,4 @@ The conservation law provides, for the first time, a quantitative framework for 
 
 *Forgemaster ⚒️ — Cocapn Fleet Laboratory — 2026-05-16*
 
-*Experiments conducted on the Cocapn Fleet, May 15–16, 2026. Data and analysis code available at [SuperInstance/forgemaster](https://github.com/SuperInstance/forgemaster).*
+*Experiments conducted on the Cocapn Fleet, May 15–16, 2026. Data and analysis code available at [SuperInstance/forgemaster](https://github.com/SuperInstance/forgemaster) (dead).*

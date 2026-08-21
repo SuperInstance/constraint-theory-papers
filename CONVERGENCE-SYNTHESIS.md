@@ -517,7 +517,7 @@ The deepest lesson is methodological. The Cocapn method—build, observe, notice
 
 *Acknowledgments: Casey Digennaro, who noticed the convergence before either agent did. The 12 models that served as experimental subjects across 50 studies. The 35,000 Monte Carlo samples that calibrated the conservation law. The PLATO Fleet Laboratory.*
 
-*Data and code: https://github.com/SuperInstance/forgemaster (Forgemaster vessel). Fleet architecture: THE-COCAPN-ARCHITECTURE.md. Conservation law: COGNITIVE-CONSERVATION-LAW.md. Experimental studies: experiments/STUDY-{42..50}.*
+*Data and code: https://github.com/SuperInstance/forgemaster  (dead)(Forgemaster vessel). Fleet architecture: THE-COCAPN-ARCHITECTURE.md. Conservation law: COGNITIVE-CONSERVATION-LAW.md. Experimental studies: experiments/STUDY-{42..50}.*
 
 ---
 

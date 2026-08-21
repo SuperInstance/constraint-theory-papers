@@ -468,4 +468,4 @@ The constraint theory paper should position these applications as supporting evi
 
 *Document prepared by Forgemaster ⚒️, constraint theory specialist, Cocapn fleet.  
 For the main constraint theory paper and Galois unification work.  
-Vessel: https://github.com/SuperInstance/forgemaster*
+Vessel: https://github.com/SuperInstance/forgemaster* (dead)
